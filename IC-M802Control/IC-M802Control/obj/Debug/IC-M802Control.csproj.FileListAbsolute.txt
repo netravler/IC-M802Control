@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\bin\Debug\IC-M802Control.exe.config
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\bin\Debug\IC-M802Control.exe
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\bin\Debug\IC-M802Control.pdb
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\obj\Debug\IC-M802Control.csprojResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\obj\Debug\IC_M802Control.Form1.resources
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\obj\Debug\IC_M802Control.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\obj\Debug\IC-M802Control.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\obj\Debug\IC-M802Control.exe
+c:\users\pheintz\documents\visual studio 2013\Projects\IC-M802Control\IC-M802Control\obj\Debug\IC-M802Control.pdb
